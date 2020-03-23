@@ -1,6 +1,6 @@
 # BUS-SEAT-AVAILABILITY-USING-ML
 
-In this project we created a “people counter” with OpenCV and Python. Using OpenCV, we’ll count the number of people who are heading “in” or “out” of a BUS in real-time.
+In this project we created a “people counter” with OpenCV and Python for Reboot Kerala Hackathon. Using OpenCV, we’ll count the number of people who are heading “in” or “out” of a BUS in real-time.
 
 ![](opencv_people_counter_result01.gif)
 

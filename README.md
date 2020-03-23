@@ -2,6 +2,8 @@
 
 In this project we created a “people counter” with OpenCV and Python. Using OpenCV, we’ll count the number of people who are heading “in” or “out” of a BUS in real-time.
 
+![](name-of-giphy.gif)
+
 # Required Python libraries for people counting
 In order to build our people counting applications, we’ll need a number of different Python libraries, including:
 

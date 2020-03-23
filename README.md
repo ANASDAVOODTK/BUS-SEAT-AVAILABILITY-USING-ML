@@ -7,9 +7,9 @@ In this project we created a “people counter” with OpenCV and Python. Using 
 # Required Python libraries for people counting
 In order to build our people counting applications, we’ll need a number of different Python libraries, including:
 
-NumPy
-OpenCV
-dlib
+NumPy,
+OpenCV,
+dlib,
 imutils
 
 # Combining both object detection and object tracking

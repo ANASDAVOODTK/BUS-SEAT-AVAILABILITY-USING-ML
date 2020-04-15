@@ -20,4 +20,4 @@ Detecting: During the detection phase we are running our computationally more ex
 # Phase 2 
 Tracking: When we are not in the “detecting” phase we are in the “tracking” phase. For each of our detected objects, we create an object tracker to track the object as it moves around the frame. Our object tracker should be faster and more efficient than the object detector. We’ll continue tracking until we’ve reached the N-th frame and then re-run our object detector. The entire process then repeats.
 The benefit of this hybrid approach is that we can apply highly accurate object detection methods without as much of the computational burden. We will be implementing such a tracking system to build our people counter.
-[Quora profile link for Adam D'Angelo](http://www.quora.com/Adam-DAngelo)
+
